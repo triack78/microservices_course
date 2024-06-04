@@ -1,0 +1,11 @@
+build:
+  version: "7.8.90"
+
+loans:
+  message: "Welcome to EazyBank loans related PROD APIs "
+  contactDetails:
+    name: "Stefano Triaca - PROD Lead"
+    email: "s.triaca_prod@eazybank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371

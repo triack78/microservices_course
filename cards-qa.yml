@@ -1,0 +1,11 @@
+build:
+  version: "4.5.6"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Stefano Triaca - QA Lead"
+    email: "s.triaca@eazybank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
