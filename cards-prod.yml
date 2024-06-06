@@ -2,7 +2,7 @@ build:
   version: "5.6.70"
 
 cards:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank cards related Production RabbirMQ APIs "
   contactDetails:
     name: "Stefano Triaca - QA Lead"
     email: "s.triaca@eazybank.com"
