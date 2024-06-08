@@ -7,7 +7,7 @@
 #ATTENZIONE: IN QUESTA MODALITA' VANNO RIAVVIATI SIA IL CONFIG_SERVER CHE IL MICROSERVIZIO ACCOUNT
 #SE MODIFICA UNA O PIU' PROPRIETA'!!!
 build:
-  version: "1.78.96"
+  version: "1.78.97"
 
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs Production RabbitMQ FileSystem"
