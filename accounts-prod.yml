@@ -10,7 +10,7 @@ build:
   version: "1.78.97"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs Production RabbitMQ FileSystem"
+  message: "Welcome to EazyBank accounts related prod APIs Production RabbitMQ FileSystem 5435"
   contactDetails:
     name: "Reine Aishwarya - Product Owner FileSystem_v2999"
     email: "{cipher}f5a52b9c869c18c4997ccea519cf3970ce9e70f3887c43b82ee2fbba903a7fbba8bbd5677c62a8d78b3bd1c006c5bec0"
