@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related Production RabbirMQ APIs "
   contactDetails:
-    name: "Stefano Triaca - Produzione Lead"
+    name: "Stefano Triaca - Prod Lead"
     email: "s.triaca@eazybank.com"
   onCallSupport:
     - (666) 265-3765
