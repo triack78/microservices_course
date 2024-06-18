@@ -1,0 +1,12 @@
+server:
+  port: 8070
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    fetchRegistry: false          # I don't want eurekaserver to fetch registry with othter microsercices (Eureka Server never call my microservices: default is true)
+    registerWithEureka: false     # Don't register yourself and don't expose your details in the registry of service discovery
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/ #Where eurekaserver show his fuctionality (i.e: the console)
+    
