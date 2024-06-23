@@ -1,6 +1,7 @@
 server:
   port: 8072
 
+#In questo modo il gateway server potrà avere le info su tutte le istanze attualmente attive
 eureka:
   instance:
     preferIpAddress: true
